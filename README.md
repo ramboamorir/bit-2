@@ -1,1 +1,1 @@
-En este proyecto vamos a diseñar un backend ejemplo
+En este proyecto se quiere presentar el manejo de un usuario simple en listado bancario en el que se presenta nombr de entidad bancaria en el que se encuentra, edad, nombre del usuario y cuanto dinero contiene.
